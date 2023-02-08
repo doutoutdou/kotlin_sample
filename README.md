@@ -1,2 +1,2 @@
 # kotlin_udemy_2023
-https://external-teksystems.udemy.com/course/kotlinmasterclass/learn/lecture/16568220#overview
+https://external-teksystems.udemy.com/course/kotlin-for-java-developers/learn/lecture/7792514#overview
